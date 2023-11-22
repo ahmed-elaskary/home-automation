@@ -1,1 +1,1 @@
-# ESP32-Homer-automation
+# ESP32-Home-automation
